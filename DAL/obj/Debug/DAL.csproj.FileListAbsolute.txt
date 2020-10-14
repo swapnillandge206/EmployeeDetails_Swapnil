@@ -1,0 +1,7 @@
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\bin\Debug\DAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\bin\Debug\DAL.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\bin\Debug\Model.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\bin\Debug\Model.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\obj\Debug\DAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\DAL\obj\Debug\DAL.pdb

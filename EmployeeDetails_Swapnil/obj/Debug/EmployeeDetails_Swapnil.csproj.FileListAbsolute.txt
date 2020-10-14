@@ -1,0 +1,11 @@
+c:\users\gk\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\EmployeeDetails_Swapnil.dll
+c:\users\gk\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\EmployeeDetails_Swapnil.pdb
+c:\users\gk\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\obj\Debug\EmployeeDetails_Swapnil.dll
+c:\users\gk\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\obj\Debug\EmployeeDetails_Swapnil.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\obj\Debug\EmployeeDetails_Swapnil.csprojResolveAssemblyReference.cache
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\BAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\Model.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\DAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\BAL.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\Model.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\EmployeeDetails_Swapnil\bin\DAL.pdb

@@ -1,0 +1,9 @@
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\bin\Debug\BAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\bin\Debug\BAL.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\bin\Debug\DAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\bin\Debug\Model.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\bin\Debug\DAL.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\bin\Debug\Model.pdb
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\obj\Debug\BAL.dll
+C:\Users\GK\documents\visual studio 2010\projects\EmployeeDetails_Swapnil\BAL\obj\Debug\BAL.pdb
